@@ -1,0 +1,19 @@
+{
+  "name": "gatekeeper",
+  "version": "1.0.0",
+  "description": "A modular system for MPP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hri7566/gatekeeper.git"
+  },
+  "author": "Hri7566, fishi, Nebula, Anonygold, Caution, Wolfy, Shadow, AsCody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hri7566/gatekeeper/issues"
+  },
+  "homepage": "https://github.com/Hri7566/gatekeeper#readme"
+}
